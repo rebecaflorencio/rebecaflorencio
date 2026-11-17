@@ -1,16 +1,30 @@
-## Hi there 👋
+# Olá! Eu sou a Rebeca 👋
 
-<!--
-**rebecaflorencio/rebecaflorencio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Estudante de **Ciência da Computação**  
+💻 Interessada em **Inteligência Artificial, Machine Learning e Engenharia de Software**  
+🌱 Sempre aprendendo e transformando conhecimento em projetos.
 
-Here are some ideas to get you started:
+## Sobre mim
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Sou estudante de Ciência da Computação e gosto de explorar como a tecnologia pode resolver problemas reais. Tenho interesse especial em aplicações de IA e no desenvolvimento de software, e estou construindo minha base técnica por meio dos estudos e de projetos práticos.
+
+## Tecnologias e ferramentas
+
+- **Linguagens:** Python, Java, JavaScript e SQL
+- **Ferramentas:** Git e GitHub
+- **Interesses de estudo:** Inteligência Artificial, Machine Learning, APIs e automação
+
+## Atualmente estudando
+
+- Fundamentos de Inteligência Artificial e Machine Learning
+- Aplicações com modelos de linguagem (LLMs)
+- Desenvolvimento de software e integração de APIs
+- Construção e documentação de projetos
+
+## Objetivo
+
+Desenvolver projetos que unam programação, dados e inteligência artificial, enquanto evoluo como profissional de tecnologia.
+
+---
+
+📌 Este perfil reúne meus estudos, experimentos e projetos. Fique à vontade para acompanhar minha evolução!
